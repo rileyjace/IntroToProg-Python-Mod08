@@ -1,2 +1,1 @@
-# IntroToProg-Python-Mod08
- 
+[Assignment08 Document](https://github.com/rileyjace/IntroToProg-Python-Mod08
