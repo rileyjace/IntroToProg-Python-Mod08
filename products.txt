@@ -1,0 +1,6 @@
+Milk,2.5
+cheese,4.0
+Computer, 1500.5
+quarter, 0.25
+water bottle, 15.0
+Phone, 850.0
